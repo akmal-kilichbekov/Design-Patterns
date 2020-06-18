@@ -1,0 +1,7 @@
+The Factory Method Pattern defi nes an interface
+for creating an object, but lets subclasses decide which
+class to instantiate. Factory Method lets a class defer
+instantiation to subclasses.
+
+Design Principle: depend upon abstractions. Do not
+depend upon concrete classes.
